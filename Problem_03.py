@@ -14,3 +14,4 @@ def calculate_fine(name, days):
 
 f = calculate_fine(M, N)
 
+#Status Done

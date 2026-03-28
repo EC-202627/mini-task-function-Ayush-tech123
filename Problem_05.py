@@ -12,3 +12,5 @@ def calculate_fine(name, days, fine, due):
     return fine
 
 f = calculate_fine(M, N, F, X)
+
+#Status Done
